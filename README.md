@@ -1,4 +1,8 @@
-### Hi there 👋
+### Howdy 👋
+
+<img align="right" width="300" height="261" src="oh-no.gif">
+
+I'm **videah**, a nerdy werewolf that likes to work on all kinds of things! 🐺✨
 
 <!--
 **videah/videah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
