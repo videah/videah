@@ -4,7 +4,7 @@
 
 I'm **videah**, a nerdy werewolf that likes to mess around with computers! 🐺✨
 
-I mostly do mobile development but I sorta kinda enjoy a bit of everything, you'll find all sorts of projects I work on here.
+I mostly do mobile development but I kinda enjoy a bit of everything.
 
  - 🐺 Pronouns: He/Him
  - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Live in Scotland, just outside Glasgow
